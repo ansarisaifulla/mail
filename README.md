@@ -1,1 +1,1 @@
-A java program to send a mail with otp for authorization
+A java program to send mail with OTP for authorization.
